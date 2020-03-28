@@ -1,0 +1,47 @@
+# Copyright (C) 2020 Jan Boddez
+# This file is distributed under the same license as the Page Themes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Page Themes 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/page-themes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-24T22:03:23+01:00\n"
+"PO-Revision-Date: 2020-03-24T22:03:23+01:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: page-themes\n"
+
+#. Plugin Name of the plugin
+#: includes/class-options-handler.php:71
+#: includes/class-options-handler.php:72
+#: includes/class-options-handler.php:132
+msgid "Page Themes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Assign a specific theme to any post or page."
+msgstr ""
+
+#. Author of the plugin
+msgid "Jan Boddez"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://janboddez.tech/"
+msgstr ""
+
+#: includes/class-post-handler.php:61
+#: includes/class-post-handler.php:80
+msgid "Page Theme"
+msgstr ""
+
+#: includes/class-options-handler.php:146
+msgid "Supported Post Types"
+msgstr ""
+
+#: includes/class-options-handler.php:157
+msgid "Post types for which setting a specific theme is possible."
+msgstr ""
